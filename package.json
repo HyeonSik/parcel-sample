@@ -1,0 +1,20 @@
+{
+  "name": "parcel-smample",
+  "version": "1.0.0",
+  "description": "Setting React project with Parcel",
+  "repository": "https://github.com/HyeonSik/parcel-sample.git",
+  "author": "hyunsik <shs9589@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "react": "^16.2.0",
+    "react-dom": "^16.2.0"
+  },
+  "devDependencies": {
+    "babel-preset-env": "^1.6.1",
+    "babel-preset-react": "^6.24.1"
+  },
+  "scripts": {
+    "start": "parcel index.html"
+  }
+}
